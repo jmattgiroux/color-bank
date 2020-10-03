@@ -6,6 +6,7 @@ Description: This application is meant to allow users to learn the hexcode repre
 If you have any questions, comments, or concerns about this repository or the projects/code it contains, I can be contacted at:
 
 jmattgiroux@gmail.com
+
 Contents:
 
 Environment: This is a description of the environment this repository's code was created in. 
