@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2196F3</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#FFFFFF</color>
+
+    <color name="color_one">#000000</color>
+    <color name="color_one_complement">#FFFFFF</color>
+    <color name="color_two">#673AB7</color>
+    <color name="color_two_complement">#98C548</color>
+    <color name="color_three">#F44336</color>
+    <color name="color_three_complement">#0BBCC9</color>
+    <color name="color_four">#FF9800</color>
+    <color name="color_four_complement">#0067FF</color>
+</resources>
